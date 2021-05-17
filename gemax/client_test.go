@@ -6,8 +6,8 @@ import (
 	"io"
 	"testing"
 
-	"github.com/ninedraft/gemax/gemax"
-	"github.com/ninedraft/gemax/gemax/internal/tester"
+	"github.com/hugmouse/gemax/gemax"
+	"github.com/hugmouse/gemax/gemax/internal/tester"
 )
 
 //go:embed testdata/client/pages/*

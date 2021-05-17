@@ -6,7 +6,7 @@ import (
 	"errors"
 	"io"
 
-	"github.com/ninedraft/gemax/gemax/internal/multierr"
+	"github.com/hugmouse/gemax/gemax/internal/multierr"
 )
 
 // Writer is a buffered io.Writer wrapper.

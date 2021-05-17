@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/ninedraft/gemax/gemax/status"
+	"github.com/hugmouse/gemax/gemax/status"
 )
 
 // Redirect client to another page.

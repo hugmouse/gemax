@@ -11,7 +11,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/ninedraft/gemax/gemax/status"
+	"github.com/hugmouse/gemax/gemax/status"
 )
 
 // FileSystem serves file systems as gemini catalogs.

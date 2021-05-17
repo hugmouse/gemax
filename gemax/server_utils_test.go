@@ -8,8 +8,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/hugmouse/gemax/gemax/status"
 	"github.com/ninedraft/gemax/gemax"
-	"github.com/ninedraft/gemax/gemax/status"
 )
 
 func TestServeContent(test *testing.T) {
