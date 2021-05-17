@@ -7,8 +7,8 @@ import (
 	"testing"
 	"testing/fstest"
 
+	"github.com/hugmouse/gemax/gemax"
 	"github.com/hugmouse/gemax/gemax/status"
-	"github.com/ninedraft/gemax/gemax"
 )
 
 func TestFS(test *testing.T) {

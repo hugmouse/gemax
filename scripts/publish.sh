@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 tag=${1#"refs/tags/"}
-curl https://proxy.golang.org/github.com/ninedraft/gemax/@v/$tag.info
+curl https://proxy.golang.org/github.com/hugmouse/gemax/@v/$tag.info
